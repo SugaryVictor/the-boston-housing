@@ -7,7 +7,7 @@ Using this data set as an example, I want to show how a multilinear regression i
 There are 506 observations in the dataset itself (a few)
 
 ## Variables
-There are 14 attributes in each instance of the dataset:  
+There are 14 features in the dataset:  
 **CRIM** - crime rate per capita by city.  
 **ZN** - the share of land for residential development, zoned for plots over 25,000 sq.m.  
 **INDUS** is the proportion of acres of non-trading business per city.  
@@ -35,7 +35,7 @@ Variable #14 appears to be censored at 50.00 (corresponding to an average price 
 В самом наборе данных 506 наблюдений (очень мало)
 
 ## Переменные
-В каждом случае датасета есть 14 фичей:  
+В датасете есть 14 фичей:  
 **CRIM** - уровень преступности на душу населения по городам.  
 **ZN** - доля земель под жилую застройку, зонированных под участки свыше 25 000 кв.м.  
 **INDUS** - доля акров неторгового бизнеса на город.  
